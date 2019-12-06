@@ -1,0 +1,5 @@
+-
+ name: Check connectivity to servers
+ tasks:
+  -name: Pint test
+  ping:
