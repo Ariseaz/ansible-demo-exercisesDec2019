@@ -2,13 +2,13 @@
 {
     "folders": [
         {
-            "path": "/Users/hp0/Documents/Devops/ansible-demo-exercises/exercise-0-pingtest/"
+            "path": "/Users/hp0/Documents/Devops/ansible-demo-exercises/"
         }
     ],
     "settings": {
         "sync-rsync.sites": [
             {
-                "localPath": "Users/hp0/Documents/Devops/ansible-demo-exercises/exercise-0-pingtest/",
+                "localPath": "Users/hp0/Documents/Devops/ansible-demo-exercises/",
                 "remotePath": "osboxes@172.20.10.9:/home/osboxes/ansible-demos-exercises"
             }            
         ]
